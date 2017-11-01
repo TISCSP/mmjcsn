@@ -6,7 +6,11 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+<<<<<<< HEAD
 team_name =  'LitPeople' # Only 10 chars displayed.
+=======
+team_name = 'Litpeople' # Only 10 chars displayed.
+>>>>>>> b6373978f698ff87fd7ab508174fd532c1178811
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
     
